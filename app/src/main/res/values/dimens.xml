@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginDimen">20dp</dimen>
+    <dimen name="cardDimen">15dp</dimen>
+    <dimen name="progressbarheight">30dp</dimen>
+</resources>

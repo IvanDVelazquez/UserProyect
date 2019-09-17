@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserProyect</string>
+    <string name="userList">User List</string>
+    <string name="userdetail">User Detail</string>
+    <string name="otherusers">Other Users</string>
+    <string name="email">EMAIL :</string>
+    <string name="location">LOCATION :</string>
+    <string name="concat3">%s %s %s</string>
+    <string name="concat2">%s %s</string>
+</resources>
